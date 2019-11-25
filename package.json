@@ -33,6 +33,7 @@
     "copy-webpack-plugin": "^5.0.4",
     "cross-env": "^6.0.3",
     "css-loader": "^3.2.0",
+    "cz-conventional-changelog": "^3.0.2",
     "eslint": "^6.6.0",
     "eslint-loader": "^3.0.2",
     "file-loader": "^4.2.0",
@@ -50,5 +51,10 @@
     "@babel/polyfill": "^7.6.0",
     "core-js": "^3.4.2",
     "normalize.css": "^8.0.1"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
