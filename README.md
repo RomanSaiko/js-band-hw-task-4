@@ -1,6 +1,3 @@
-### Demo
-https://romansaiko.github.io/js-band-hw-task-3/
-
 ### Installation
 ```
 npm install
@@ -15,3 +12,16 @@ npm start
 ```
 npm run build
 ```
+
+### Start dummy test
+```
+npm test -- --watch
+```
+
+### Commitizen tool
+```
+git cz
+```
+
+#### License
+[MIT](https://choosealicense.com/licenses/mit/)
