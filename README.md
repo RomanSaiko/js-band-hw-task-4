@@ -5,7 +5,7 @@ npm install
 
 ### Start Dev Server
 ```
-npm start
+npm run start
 ```
 
 ### Build Prod Version
@@ -15,12 +15,12 @@ npm run build
 
 ### Start dummy test
 ```
-npm test -- --watch
+npm run test
 ```
 
-### Commitizen tool
+### Start commitizen tool
 ```
-git cz
+npm run commit
 ```
 
 #### License
